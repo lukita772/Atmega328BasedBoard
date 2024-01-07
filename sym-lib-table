@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "InfineonTechnologies")(type "KiCad")(uri "${KIPRJMOD}/libraries/InfineonTechnologies.kicad_sym")(options "")(descr ""))
+  (lib (name "EEPROM_SOT23-5")(type "KiCad")(uri "${KIPRJMOD}/libraries/EEPROM_SOT23-5.kicad_sym")(options "")(descr ""))
+)
